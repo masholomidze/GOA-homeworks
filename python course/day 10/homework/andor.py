@@ -9,3 +9,6 @@ print(answer1)
 print(answer2)
 print(answer1 and answer2)
 print(answer1 or answer2)
+
+elif 2 > 3:
+print(jdfnjf)
