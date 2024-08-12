@@ -1,0 +1,6 @@
+user_name = input("Enter Your Name: ")
+
+def sayHello(name)
+    return "hello" + name
+
+sayHello(user_name)
