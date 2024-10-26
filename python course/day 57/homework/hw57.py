@@ -4,3 +4,4 @@ def area_or_perineter(l , w):
 
     else:
         return 2 * (l + w)
+    
