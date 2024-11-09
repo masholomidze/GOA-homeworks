@@ -1,1 +1,1 @@
-print("sololern")
+print("codewars")
